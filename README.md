@@ -1,4 +1,8 @@
-# Ben Goodger - The Creator of Enemies
+<img src="Ben_Goodger.png"
+ style = margin 
+ alt= "Ben Goodger">
+# **Ben Goodger - The Creator of Enemies**
+ 
 Ben Goodger was born in London England but grew up in New Zealand. His contribution to the world of Computer Science is Google Chrome and Mozilla Firefox. Which as you can imagine are quite the same yet so different. Google Chrome and Mozilla Firefox are two of the most popular and widely browsers in the world. I found Ben very interesting for the fact that he was a founding member on both very common applications.
 
 ### Early Career
