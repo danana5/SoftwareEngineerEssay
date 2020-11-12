@@ -1,6 +1,6 @@
-<img src="Ben_Goodger.png"
- style = margin 
- alt= "Ben Goodger">
+<img src = "logos.png"
+ style margin auto
+ alt = "Logos of Mozilla Firefox and Google Chrome">
 # **Ben Goodger - The Creator of Enemies**
  
 Ben Goodger was born in London England but grew up in New Zealand. His contribution to the world of Computer Science is Google Chrome and Mozilla Firefox. Which as you can imagine are quite the same yet so different. Google Chrome and Mozilla Firefox are two of the most popular and widely browsers in the world. I found Ben very interesting for the fact that he was a founding member on both very common applications.
@@ -41,6 +41,10 @@ The browser was publicly released on September 2nd, 2008 for Windows XP. Chrome 
 
 Google Chrome took over from Internet Explorer as the most used browser in 2012 and has not lost that title since. It has a 66.68% market share as of the writing of this essay.
 
+<img src="Ben_Goodger.png"
+ style = margin auto
+ alt= "Ben Goodger">
+ 
 ### Conclusion
 Ben Goodger still works on the Google Chrome browser as General Manager for the Web Platform team. He describes himself as a “seasoned browser software engineer and enthusiast”. Goodger’s impact on the average person’s life is quite confounding when you think about it. Many people don’t even think about their browser and simply just use whatever comes preinstalled on their devices. I believe that the impact these browsers have had on not only the tech industry but every industry is never going to be understated as every byte of information that flows through the world wide web would not be accessible on the scale it is if it weren’t for the popularity of browsers like Firefox and Chrome.
 
