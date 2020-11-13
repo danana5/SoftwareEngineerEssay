@@ -56,13 +56,13 @@ ___
 
 ### Sources
 
-Ben Goodger's LinkedIn Profile: https://www.linkedin.com/in/bengoodger/
+* Ben Goodger's LinkedIn Profile: https://www.linkedin.com/in/bengoodger/
 
-Ben Goodger on Wikipedia: https://en.wikipedia.org/wiki/Ben_Goodger
+* Ben Goodger on Wikipedia: https://en.wikipedia.org/wiki/Ben_Goodger
 
-FLOSS Weekly Podcast with Ben Goodger: https://twit.tv/shows/floss-weekly/episodes/2
+* FLOSS Weekly Podcast with Ben Goodger: https://twit.tv/shows/floss-weekly/episodes/2
 
-NZ Herald article on Ben Goodger: https://www.nzherald.co.nz/technology/kiwi-leads-effort-to-build-a-better-browser/WER7KZF6ZLJI46X5QGL5Q4F2BQ/
+* NZ Herald article on Ben Goodger: https://www.nzherald.co.nz/technology/kiwi-leads-effort-to-build-a-better-browser/WER7KZF6ZLJI46X5QGL5Q4F2BQ/
 
-CNet article on Ben Goodger's move to Google: https://www.cnet.com/news/google-snaps-up-top-firefox-programmer/
+* CNet article on Ben Goodger's move to Google: https://www.cnet.com/news/google-snaps-up-top-firefox-programmer/
 
