@@ -51,3 +51,14 @@ Ben Goodger still works on the Google Chrome browser as General Manager for the 
 Ben Goodger had a huge hand in creating some of the most used software on the planet and nearly no one knows his name. Ben’s name is not mentioned once on either Firefox or Chrome’s Wikipedia page. He created two hugely competitive browsers and enhanced the capabilities of so many ordinary people.
 
 Daniel Grace
+
+___
+
+### Sources
+
+Ben Goodger's LinkedIn Profile: https://www.linkedin.com/in/bengoodger/
+Ben Goodger on Wikipedia: https://en.wikipedia.org/wiki/Ben_Goodger
+FLOSS Weekly Podcast with Ben Goodger: https://twit.tv/shows/floss-weekly/episodes/2
+NZ Herald article on Ben Goodger: https://www.nzherald.co.nz/technology/kiwi-leads-effort-to-build-a-better-browser/WER7KZF6ZLJI46X5QGL5Q4F2BQ/
+CNet article on Ben Goodger's move to Google: https://www.cnet.com/news/google-snaps-up-top-firefox-programmer/
+
