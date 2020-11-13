@@ -50,8 +50,6 @@ Ben Goodger still works on the Google Chrome browser as General Manager for the 
 
 Ben Goodger had a huge hand in creating some of the most used software on the planet and nearly no one knows his name. Ben’s name is not mentioned once on either Firefox or Chrome’s Wikipedia page. He created two hugely competitive browsers and enhanced the capabilities of so many ordinary people.
 
-Daniel Grace
-
 ___
 
 ## Sources
