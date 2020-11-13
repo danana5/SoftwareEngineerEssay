@@ -6,7 +6,7 @@
 Ben Goodger was born in London England but grew up in New Zealand. His contribution to the world of Computer Science is Google Chrome and Mozilla Firefox. Which as you can imagine are quite the same yet so different. Google Chrome and Mozilla Firefox are two of the most popular and widely browsers in the world. I found Ben very interesting for the fact that he was a founding member on both very common applications.
 
 ### Early Career
-Ben started his career as a software engineer by studying Computer Systems Engineering at The University of Auckland in which he graduated with a Bachelor of Engineering in 2002. Prior to his graduation Goodger worked as an intern for Netscape Communications Corporation. He started as an intern in the Navigator group who were the owner of Mozilla user interface module in 2000-2001.Ben originally got involved in Netscape Navigator via their open sourcing of the project. 
+Ben started his career as a software engineer by studying Computer Systems Engineering at The University of Auckland in which he graduated with a Bachelor of Engineering in 2002. Prior to his graduation Goodger worked as an intern for Netscape Communications Corporation. He started as an intern in the Navigator group who were the owner of Mozilla user interface module in 2000-2001. Ben originally got involved in Netscape Navigator via their open sourcing of the project. 
 
 Netscape Navigator was the original browser of the Netscape line. It was the flagship project from Netscape. In the 1990’s it was the dominant web browser in terms of usage share. Navigator was very well positioned for the consumer Internet revolution and seized its opportunity.
 
